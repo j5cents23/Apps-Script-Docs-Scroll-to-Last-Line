@@ -1,0 +1,4 @@
+So this is not my code, it was taken from: https://webapps.stackexchange.com/questions/128972/how-to-automatically-scroll-to-bottom-of-google-doc-when-it-is-opened
+user: Ruben
+
+However, I added some comments that helped me understand what each line does, hopefully it helps someone else understand it as well. 
